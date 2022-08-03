@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OnlineCourses.Application.Application/1.0.0": {
+        "runtime": {
+          "OnlineCourses.Application.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineCourses.Application.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

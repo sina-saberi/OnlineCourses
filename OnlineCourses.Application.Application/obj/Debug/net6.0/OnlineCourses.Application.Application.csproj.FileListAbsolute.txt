@@ -1,0 +1,12 @@
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Application.Application\bin\Debug\net6.0\OnlineCourses.Application.Application.deps.json
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Application.Application\bin\Debug\net6.0\OnlineCourses.Application.Application.dll
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Application.Application\bin\Debug\net6.0\OnlineCourses.Application.Application.pdb
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Application.Application\obj\Debug\net6.0\OnlineCourses.Application.Application.csproj.AssemblyReference.cache
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Application.Application\obj\Debug\net6.0\OnlineCourses.Application.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Application.Application\obj\Debug\net6.0\OnlineCourses.Application.Application.AssemblyInfoInputs.cache
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Application.Application\obj\Debug\net6.0\OnlineCourses.Application.Application.AssemblyInfo.cs
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Application.Application\obj\Debug\net6.0\OnlineCourses.Application.Application.csproj.CoreCompileInputs.cache
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Application.Application\obj\Debug\net6.0\OnlineCourses.Application.Application.dll
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Application.Application\obj\Debug\net6.0\refint\OnlineCourses.Application.Application.dll
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Application.Application\obj\Debug\net6.0\OnlineCourses.Application.Application.pdb
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Application.Application\obj\Debug\net6.0\ref\OnlineCourses.Application.Application.dll

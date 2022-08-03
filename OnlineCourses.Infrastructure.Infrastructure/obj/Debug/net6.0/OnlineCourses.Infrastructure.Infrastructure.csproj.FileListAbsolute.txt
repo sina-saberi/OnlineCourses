@@ -1,0 +1,12 @@
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Infrastructure.Infrastructure\bin\Debug\net6.0\OnlineCourses.Infrastructure.Infrastructure.deps.json
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Infrastructure.Infrastructure\bin\Debug\net6.0\OnlineCourses.Infrastructure.Infrastructure.dll
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Infrastructure.Infrastructure\bin\Debug\net6.0\OnlineCourses.Infrastructure.Infrastructure.pdb
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Infrastructure.Infrastructure\obj\Debug\net6.0\OnlineCourses.Infrastructure.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Infrastructure.Infrastructure\obj\Debug\net6.0\OnlineCourses.Infrastructure.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Infrastructure.Infrastructure\obj\Debug\net6.0\OnlineCourses.Infrastructure.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Infrastructure.Infrastructure\obj\Debug\net6.0\OnlineCourses.Infrastructure.Infrastructure.AssemblyInfo.cs
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Infrastructure.Infrastructure\obj\Debug\net6.0\OnlineCourses.Infrastructure.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Infrastructure.Infrastructure\obj\Debug\net6.0\OnlineCourses.Infrastructure.Infrastructure.dll
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Infrastructure.Infrastructure\obj\Debug\net6.0\refint\OnlineCourses.Infrastructure.Infrastructure.dll
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Infrastructure.Infrastructure\obj\Debug\net6.0\OnlineCourses.Infrastructure.Infrastructure.pdb
+C:\Users\bartar\Desktop\OnlineCourses\OnlineCourses.Infrastructure.Infrastructure\obj\Debug\net6.0\ref\OnlineCourses.Infrastructure.Infrastructure.dll

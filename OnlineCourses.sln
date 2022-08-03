@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineCourses.Domain", "OnlineCourses.Domain", "{AB64F5FF-72C1-40E7-8BA9-CD1A24BB2CB8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineCourses.Infrastructure", "OnlineCourses.Infrastructure", "{8FAD9180-C805-469E-8E90-4F332E577EAF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineCourses.Application", "OnlineCourses.Application", "{AD83C5A6-2534-4AB8-9DC9-20B721DAADA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineCourses.API", "OnlineCourses.API", "{D8409B0C-373B-4243-A57E-FF8D02B59A3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineCourses.Domain.Core", "OnlineCourses.Domain.Core\OnlineCourses.Domain.Core.csproj", "{3527A775-8279-41B1-B7DA-53A4919166D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnlineCourses.Document", "OnlineCourses.Document", "{47112AD8-AB1B-4D41-96A9-A31FE47EC6A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineCourses.Infrastructure.Infrastructure", "OnlineCourses.Infrastructure.Infrastructure\OnlineCourses.Infrastructure.Infrastructure.csproj", "{776CF721-126C-4D77-B465-D6AA133AFF42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineCourses.Infrastructure.Database", "OnlineCourses.Infrastructure.Database\OnlineCourses.Infrastructure.Database.csproj", "{8D588383-61EF-4033-8A08-8DF7DE3B8945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineCourses.Application.Application", "OnlineCourses.Application.Application\OnlineCourses.Application.Application.csproj", "{E94B8558-BF84-43F6-9952-7F377DF20141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineCourses.API.API", "OnlineCourses.API.API\OnlineCourses.API.API.csproj", "{5CFD4060-AC02-45CE-BB6A-598AEA2D2182}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3527A775-8279-41B1-B7DA-53A4919166D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3527A775-8279-41B1-B7DA-53A4919166D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3527A775-8279-41B1-B7DA-53A4919166D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3527A775-8279-41B1-B7DA-53A4919166D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776CF721-126C-4D77-B465-D6AA133AFF42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776CF721-126C-4D77-B465-D6AA133AFF42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776CF721-126C-4D77-B465-D6AA133AFF42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776CF721-126C-4D77-B465-D6AA133AFF42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D588383-61EF-4033-8A08-8DF7DE3B8945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D588383-61EF-4033-8A08-8DF7DE3B8945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D588383-61EF-4033-8A08-8DF7DE3B8945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D588383-61EF-4033-8A08-8DF7DE3B8945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94B8558-BF84-43F6-9952-7F377DF20141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94B8558-BF84-43F6-9952-7F377DF20141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94B8558-BF84-43F6-9952-7F377DF20141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94B8558-BF84-43F6-9952-7F377DF20141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CFD4060-AC02-45CE-BB6A-598AEA2D2182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CFD4060-AC02-45CE-BB6A-598AEA2D2182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CFD4060-AC02-45CE-BB6A-598AEA2D2182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CFD4060-AC02-45CE-BB6A-598AEA2D2182}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3527A775-8279-41B1-B7DA-53A4919166D1} = {AB64F5FF-72C1-40E7-8BA9-CD1A24BB2CB8}
+		{776CF721-126C-4D77-B465-D6AA133AFF42} = {8FAD9180-C805-469E-8E90-4F332E577EAF}
+		{8D588383-61EF-4033-8A08-8DF7DE3B8945} = {8FAD9180-C805-469E-8E90-4F332E577EAF}
+		{E94B8558-BF84-43F6-9952-7F377DF20141} = {AD83C5A6-2534-4AB8-9DC9-20B721DAADA0}
+		{5CFD4060-AC02-45CE-BB6A-598AEA2D2182} = {D8409B0C-373B-4243-A57E-FF8D02B59A3F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B06BBD0B-35EC-475C-BE3D-F71EB1228EEF}
+	EndGlobalSection
+EndGlobal
